@@ -1,0 +1,14 @@
+CACHE MANIFEST
+# vIku3RVz23f97b+BlqRjyrE1uFE=
+
+CACHE:
+css/app.css
+index.html
+js/app.js
+manifest.webapp
+
+# catch-all for anything else
+NETWORK:
+*
+http://*
+https://*
